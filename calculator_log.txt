@@ -1,0 +1,9 @@
+2025-11-25 14:52:54,122 - INFO - Operation: add, Numbers: 10, 5
+2025-11-25 14:52:54,122 - INFO - Result: 15
+2025-11-25 14:52:54,122 - INFO - Operation: divide, Numbers: 8, 0
+2025-11-25 14:52:54,123 - ERROR - Error: Division by Zero
+2025-11-25 14:52:54,123 - INFO - Operation: multiply, Numbers: 3, 7
+2025-11-25 14:52:54,123 - INFO - Result: 21
+2025-11-25 14:52:54,123 - INFO - Operation: test, Numbers: 4, 2
+2025-11-25 14:52:54,123 - ERROR - Invalid operation selected!
+33
